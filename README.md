@@ -1,4 +1,4 @@
-This assignment was completed with the help of class resources and tutoring session
+This assignment was completed with the help of class resources and tutoring session.
 My map plots are showing up in my jupiter notebook but not in my repo. Here is a screenshot of my map plots. 
 
 map plot 1
