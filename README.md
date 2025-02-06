@@ -1,1 +1,1 @@
-# World_Weather_Analysis
+This assignment was completed with the help of class resources and tutoring session
